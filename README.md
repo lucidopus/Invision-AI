@@ -9,6 +9,7 @@ This project demonstrates a powerful image inpainting pipeline that utilizes **G
    - [Segment Anything Model (SAM)](#segment-anything-model-sam)
    - [Stable Diffusion](#stable-diffusion)
 3. [Installation](#installation)
+4. [Example](#example)
 
 
 ## Project Overview
@@ -65,3 +66,12 @@ Download Pre-trained Segment Anything Model
 ```bash
 wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 ```
+
+## Example
+
+Input Image:
+
+Target Object: Wall
+Prompt: Change the wall theme to reflect a tribal vibe
+
+Output Image:
