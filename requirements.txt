@@ -1,0 +1,11 @@
+pillow
+torch
+numpy
+requests
+huggingface_hub
+segment_anything
+diffusers
+transformers
+accelerate
+scipy
+safetensors
