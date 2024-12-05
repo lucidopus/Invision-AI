@@ -69,11 +69,14 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 
 ## Example
 
-- Input Image:
-![input](https://github.com/user-attachments/assets/6299ac70-246f-4ffd-b188-df0b784b0797)
+### Input Image:
+![input](https://github.com/user-attachments/assets/c24c003c-ba9d-4a11-b657-fcbba44a9b6b)
 
-- Target Object: Wall
-- Prompt: Change the wall theme to reflect a tribal vibe
+### Target Object:
+**Wall**
 
-- Output Image:
+### Transformation Prompt:
+*Change the wall theme to reflect a tribal vibe.*
+
+### Output Image:
 ![output](https://github.com/user-attachments/assets/651c4be0-4733-44f2-b9ad-5e2043d350d5)
