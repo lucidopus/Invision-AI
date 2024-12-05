@@ -76,4 +76,4 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 - Prompt: Change the wall theme to reflect a tribal vibe
 
 - Output Image:
-![output](https://github.com/user-attachments/assets/16e6d184-4898-4454-94e1-663a85ad5ee3)
+![output](https://github.com/user-attachments/assets/273cba4d-fdf9-4883-92d5-5d0938ecd9fe)
